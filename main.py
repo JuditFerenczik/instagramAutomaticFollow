@@ -1,5 +1,5 @@
 from insta import InstaFollower
-from secrets import CHROME_DRIVER_PATH
+from secret import CHROME_DRIVER_PATH
 
 
 insta = InstaFollower(CHROME_DRIVER_PATH)
